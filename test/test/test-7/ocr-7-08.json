@@ -1,0 +1,8093 @@
+[
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "en",
+    "description": "ANOTHER WAY\n...\nFor an extension of the\nproblem in Example 2,\nturn to page 781 for\nthe Problem Solving\nWorkshop.\n776\nEXAMPLE 2 Use an exponential model\nCOOLING RATES You are storing leftover chili in a freezer. The table shows the\nchili's temperature y (in degrees Fahrenheit) after x minutes in the freezer. Use a\ngraphing calculator to find a model for the data.\nX\ny\nSolution\nSTEP 1\n0\n100\n2.\nSTEP 2 Use the exponential regression\nfeature to find an equation of\nthe model.\nX\nSTEP 3 Graph the model along with the\ndata to verify that the model fits\nthe data well.\ny\nX\n10\n75\n▸ A model for the data is y = 98.2 (0.969)*.\nAnimated Algebra at classzone.com\ny\nMake a scatter plot. The points\nfall rapidly at first and then begin\nto level off. This suggests an\nexponential decay model.\n10\n23.1\n20\n50\n0\n33\nGUIDED PRACTICE for Examples 1 and 2\nUse a graphing calculator to find a model for the data. Then graph the model\nand the data in the same coordinate plane.\n1.\n30\n35\nChapter 11 Data Analysis and Statistics\n20\n40\n28\n28.9\n1\n41\n30\n34.9\n2\n52\n40\n43.7\n50\n20\n3\n68\n50\n53.2\n4\n60\n15\n80\nExpReg\ny=a* b^x\na 98.24196058\nb=.9686633194\n60\n66.5 80.8\n70\n5\n89\n6\n102\n80\n99.3\n7\n118",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 145,
+          "y": 178
+        },
+        {
+          "x": 1049,
+          "y": 178
+        },
+        {
+          "x": 1049,
+          "y": 1495
+        },
+        {
+          "x": 145,
+          "y": 1495
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ANOTHER",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 402
+        },
+        {
+          "x": 243,
+          "y": 402
+        },
+        {
+          "x": 243,
+          "y": 414
+        },
+        {
+          "x": 156,
+          "y": 414
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "WAY",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 250,
+          "y": 402
+        },
+        {
+          "x": 291,
+          "y": 402
+        },
+        {
+          "x": 291,
+          "y": 414
+        },
+        {
+          "x": 250,
+          "y": 414
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "...",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 420
+        },
+        {
+          "x": 297,
+          "y": 420
+        },
+        {
+          "x": 297,
+          "y": 423
+        },
+        {
+          "x": 156,
+          "y": 423
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "For",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 426
+        },
+        {
+          "x": 180,
+          "y": 426
+        },
+        {
+          "x": 180,
+          "y": 438
+        },
+        {
+          "x": 156,
+          "y": 438
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "an",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 185,
+          "y": 426
+        },
+        {
+          "x": 202,
+          "y": 426
+        },
+        {
+          "x": 202,
+          "y": 437
+        },
+        {
+          "x": 185,
+          "y": 437
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "extension",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 209,
+          "y": 426
+        },
+        {
+          "x": 280,
+          "y": 426
+        },
+        {
+          "x": 280,
+          "y": 437
+        },
+        {
+          "x": 209,
+          "y": 437
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "of",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 287,
+          "y": 426
+        },
+        {
+          "x": 303,
+          "y": 426
+        },
+        {
+          "x": 303,
+          "y": 437
+        },
+        {
+          "x": 287,
+          "y": 437
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 306,
+          "y": 426
+        },
+        {
+          "x": 331,
+          "y": 426
+        },
+        {
+          "x": 331,
+          "y": 437
+        },
+        {
+          "x": 306,
+          "y": 437
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "problem",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 445
+        },
+        {
+          "x": 218,
+          "y": 446
+        },
+        {
+          "x": 218,
+          "y": 463
+        },
+        {
+          "x": 156,
+          "y": 462
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "in",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 225,
+          "y": 445
+        },
+        {
+          "x": 237,
+          "y": 445
+        },
+        {
+          "x": 237,
+          "y": 462
+        },
+        {
+          "x": 225,
+          "y": 462
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Example",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 244,
+          "y": 445
+        },
+        {
+          "x": 307,
+          "y": 446
+        },
+        {
+          "x": 307,
+          "y": 464
+        },
+        {
+          "x": 244,
+          "y": 463
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 312,
+          "y": 446
+        },
+        {
+          "x": 321,
+          "y": 446
+        },
+        {
+          "x": 321,
+          "y": 463
+        },
+        {
+          "x": 312,
+          "y": 463
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ",",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 322,
+          "y": 446
+        },
+        {
+          "x": 326,
+          "y": 446
+        },
+        {
+          "x": 326,
+          "y": 463
+        },
+        {
+          "x": 322,
+          "y": 463
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "turn",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 469
+        },
+        {
+          "x": 186,
+          "y": 469
+        },
+        {
+          "x": 186,
+          "y": 483
+        },
+        {
+          "x": 156,
+          "y": 483
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 192,
+          "y": 469
+        },
+        {
+          "x": 206,
+          "y": 469
+        },
+        {
+          "x": 206,
+          "y": 483
+        },
+        {
+          "x": 192,
+          "y": 483
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "page",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 212,
+          "y": 469
+        },
+        {
+          "x": 249,
+          "y": 469
+        },
+        {
+          "x": 249,
+          "y": 483
+        },
+        {
+          "x": 212,
+          "y": 483
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "781",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 254,
+          "y": 469
+        },
+        {
+          "x": 281,
+          "y": 469
+        },
+        {
+          "x": 281,
+          "y": 483
+        },
+        {
+          "x": 254,
+          "y": 483
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "for",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 287,
+          "y": 469
+        },
+        {
+          "x": 309,
+          "y": 469
+        },
+        {
+          "x": 309,
+          "y": 483
+        },
+        {
+          "x": 287,
+          "y": 483
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 487
+        },
+        {
+          "x": 181,
+          "y": 487
+        },
+        {
+          "x": 181,
+          "y": 503
+        },
+        {
+          "x": 156,
+          "y": 503
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Problem",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 186,
+          "y": 487
+        },
+        {
+          "x": 251,
+          "y": 488
+        },
+        {
+          "x": 251,
+          "y": 504
+        },
+        {
+          "x": 186,
+          "y": 503
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Solving",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 256,
+          "y": 488
+        },
+        {
+          "x": 315,
+          "y": 489
+        },
+        {
+          "x": 315,
+          "y": 506
+        },
+        {
+          "x": 256,
+          "y": 505
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Workshop",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 156,
+          "y": 508
+        },
+        {
+          "x": 237,
+          "y": 509
+        },
+        {
+          "x": 237,
+          "y": 525
+        },
+        {
+          "x": 156,
+          "y": 524
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 237,
+          "y": 510
+        },
+        {
+          "x": 241,
+          "y": 510
+        },
+        {
+          "x": 241,
+          "y": 525
+        },
+        {
+          "x": 237,
+          "y": 525
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "776",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 145,
+          "y": 1476
+        },
+        {
+          "x": 182,
+          "y": 1477
+        },
+        {
+          "x": 182,
+          "y": 1492
+        },
+        {
+          "x": 145,
+          "y": 1491
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "EXAMPLE",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 351,
+          "y": 181
+        },
+        {
+          "x": 459,
+          "y": 182
+        },
+        {
+          "x": 459,
+          "y": 201
+        },
+        {
+          "x": 351,
+          "y": 200
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 468,
+          "y": 182
+        },
+        {
+          "x": 482,
+          "y": 182
+        },
+        {
+          "x": 482,
+          "y": 200
+        },
+        {
+          "x": 468,
+          "y": 200
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Use",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 517,
+          "y": 180
+        },
+        {
+          "x": 555,
+          "y": 180
+        },
+        {
+          "x": 555,
+          "y": 204
+        },
+        {
+          "x": 517,
+          "y": 204
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "an",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 560,
+          "y": 180
+        },
+        {
+          "x": 586,
+          "y": 180
+        },
+        {
+          "x": 586,
+          "y": 203
+        },
+        {
+          "x": 560,
+          "y": 203
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "exponential",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 592,
+          "y": 180
+        },
+        {
+          "x": 723,
+          "y": 179
+        },
+        {
+          "x": 723,
+          "y": 202
+        },
+        {
+          "x": 592,
+          "y": 203
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 728,
+          "y": 179
+        },
+        {
+          "x": 795,
+          "y": 179
+        },
+        {
+          "x": 795,
+          "y": 202
+        },
+        {
+          "x": 728,
+          "y": 202
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "COOLING",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 369,
+          "y": 226
+        },
+        {
+          "x": 443,
+          "y": 226
+        },
+        {
+          "x": 443,
+          "y": 242
+        },
+        {
+          "x": 369,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "RATES",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 448,
+          "y": 226
+        },
+        {
+          "x": 501,
+          "y": 226
+        },
+        {
+          "x": 501,
+          "y": 242
+        },
+        {
+          "x": 448,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "You",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 510,
+          "y": 226
+        },
+        {
+          "x": 541,
+          "y": 226
+        },
+        {
+          "x": 541,
+          "y": 242
+        },
+        {
+          "x": 510,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "are",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 547,
+          "y": 226
+        },
+        {
+          "x": 573,
+          "y": 226
+        },
+        {
+          "x": 573,
+          "y": 242
+        },
+        {
+          "x": 547,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "storing",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 579,
+          "y": 226
+        },
+        {
+          "x": 637,
+          "y": 226
+        },
+        {
+          "x": 637,
+          "y": 242
+        },
+        {
+          "x": 579,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "leftover",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 642,
+          "y": 226
+        },
+        {
+          "x": 705,
+          "y": 226
+        },
+        {
+          "x": 705,
+          "y": 242
+        },
+        {
+          "x": 642,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chili",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 711,
+          "y": 226
+        },
+        {
+          "x": 748,
+          "y": 226
+        },
+        {
+          "x": 748,
+          "y": 242
+        },
+        {
+          "x": 711,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "in",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 753,
+          "y": 226
+        },
+        {
+          "x": 768,
+          "y": 226
+        },
+        {
+          "x": 768,
+          "y": 242
+        },
+        {
+          "x": 753,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 775,
+          "y": 226
+        },
+        {
+          "x": 783,
+          "y": 226
+        },
+        {
+          "x": 783,
+          "y": 242
+        },
+        {
+          "x": 775,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "freezer",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 789,
+          "y": 226
+        },
+        {
+          "x": 846,
+          "y": 226
+        },
+        {
+          "x": 846,
+          "y": 242
+        },
+        {
+          "x": 789,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 848,
+          "y": 226
+        },
+        {
+          "x": 851,
+          "y": 226
+        },
+        {
+          "x": 851,
+          "y": 242
+        },
+        {
+          "x": 848,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "The",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 857,
+          "y": 226
+        },
+        {
+          "x": 887,
+          "y": 226
+        },
+        {
+          "x": 887,
+          "y": 242
+        },
+        {
+          "x": 857,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "table",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 893,
+          "y": 226
+        },
+        {
+          "x": 934,
+          "y": 226
+        },
+        {
+          "x": 934,
+          "y": 242
+        },
+        {
+          "x": 893,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "shows",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 940,
+          "y": 226
+        },
+        {
+          "x": 991,
+          "y": 226
+        },
+        {
+          "x": 991,
+          "y": 242
+        },
+        {
+          "x": 940,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 995,
+          "y": 226
+        },
+        {
+          "x": 1024,
+          "y": 226
+        },
+        {
+          "x": 1024,
+          "y": 242
+        },
+        {
+          "x": 995,
+          "y": 242
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "chili's",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 369,
+          "y": 247
+        },
+        {
+          "x": 417,
+          "y": 247
+        },
+        {
+          "x": 417,
+          "y": 265
+        },
+        {
+          "x": 369,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "temperature",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 423,
+          "y": 247
+        },
+        {
+          "x": 528,
+          "y": 247
+        },
+        {
+          "x": 528,
+          "y": 265
+        },
+        {
+          "x": 423,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 534,
+          "y": 247
+        },
+        {
+          "x": 542,
+          "y": 247
+        },
+        {
+          "x": 542,
+          "y": 265
+        },
+        {
+          "x": 534,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "(",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 548,
+          "y": 247
+        },
+        {
+          "x": 552,
+          "y": 247
+        },
+        {
+          "x": 552,
+          "y": 265
+        },
+        {
+          "x": 548,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "in",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 553,
+          "y": 247
+        },
+        {
+          "x": 569,
+          "y": 247
+        },
+        {
+          "x": 569,
+          "y": 265
+        },
+        {
+          "x": 553,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "degrees",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 576,
+          "y": 247
+        },
+        {
+          "x": 639,
+          "y": 247
+        },
+        {
+          "x": 639,
+          "y": 265
+        },
+        {
+          "x": 576,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Fahrenheit",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 645,
+          "y": 247
+        },
+        {
+          "x": 737,
+          "y": 247
+        },
+        {
+          "x": 737,
+          "y": 265
+        },
+        {
+          "x": 645,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 738,
+          "y": 247
+        },
+        {
+          "x": 742,
+          "y": 247
+        },
+        {
+          "x": 742,
+          "y": 265
+        },
+        {
+          "x": 738,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "after",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 749,
+          "y": 247
+        },
+        {
+          "x": 788,
+          "y": 247
+        },
+        {
+          "x": 788,
+          "y": 265
+        },
+        {
+          "x": 749,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "x",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 793,
+          "y": 247
+        },
+        {
+          "x": 801,
+          "y": 247
+        },
+        {
+          "x": 801,
+          "y": 265
+        },
+        {
+          "x": 793,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "minutes",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 808,
+          "y": 247
+        },
+        {
+          "x": 875,
+          "y": 247
+        },
+        {
+          "x": 875,
+          "y": 265
+        },
+        {
+          "x": 808,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "in",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 882,
+          "y": 247
+        },
+        {
+          "x": 898,
+          "y": 247
+        },
+        {
+          "x": 898,
+          "y": 265
+        },
+        {
+          "x": 882,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 903,
+          "y": 247
+        },
+        {
+          "x": 930,
+          "y": 247
+        },
+        {
+          "x": 930,
+          "y": 265
+        },
+        {
+          "x": 903,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "freezer",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 936,
+          "y": 247
+        },
+        {
+          "x": 994,
+          "y": 247
+        },
+        {
+          "x": 994,
+          "y": 265
+        },
+        {
+          "x": 936,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 994,
+          "y": 247
+        },
+        {
+          "x": 997,
+          "y": 247
+        },
+        {
+          "x": 997,
+          "y": 265
+        },
+        {
+          "x": 994,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Use",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1003,
+          "y": 247
+        },
+        {
+          "x": 1035,
+          "y": 247
+        },
+        {
+          "x": 1035,
+          "y": 265
+        },
+        {
+          "x": 1003,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 1040,
+          "y": 247
+        },
+        {
+          "x": 1049,
+          "y": 247
+        },
+        {
+          "x": 1049,
+          "y": 265
+        },
+        {
+          "x": 1040,
+          "y": 265
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "graphing",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 368,
+          "y": 271
+        },
+        {
+          "x": 447,
+          "y": 270
+        },
+        {
+          "x": 447,
+          "y": 287
+        },
+        {
+          "x": 368,
+          "y": 288
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "calculator",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 449,
+          "y": 270
+        },
+        {
+          "x": 534,
+          "y": 269
+        },
+        {
+          "x": 534,
+          "y": 286
+        },
+        {
+          "x": 449,
+          "y": 287
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 539,
+          "y": 270
+        },
+        {
+          "x": 554,
+          "y": 270
+        },
+        {
+          "x": 554,
+          "y": 286
+        },
+        {
+          "x": 539,
+          "y": 286
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "find",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 562,
+          "y": 270
+        },
+        {
+          "x": 595,
+          "y": 270
+        },
+        {
+          "x": 595,
+          "y": 286
+        },
+        {
+          "x": 562,
+          "y": 286
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 600,
+          "y": 270
+        },
+        {
+          "x": 609,
+          "y": 270
+        },
+        {
+          "x": 609,
+          "y": 286
+        },
+        {
+          "x": 600,
+          "y": 286
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 614,
+          "y": 269
+        },
+        {
+          "x": 666,
+          "y": 269
+        },
+        {
+          "x": 666,
+          "y": 286
+        },
+        {
+          "x": 614,
+          "y": 286
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "for",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 671,
+          "y": 269
+        },
+        {
+          "x": 693,
+          "y": 269
+        },
+        {
+          "x": 693,
+          "y": 285
+        },
+        {
+          "x": 671,
+          "y": 285
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 699,
+          "y": 269
+        },
+        {
+          "x": 726,
+          "y": 269
+        },
+        {
+          "x": 726,
+          "y": 285
+        },
+        {
+          "x": 699,
+          "y": 285
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 732,
+          "y": 268
+        },
+        {
+          "x": 767,
+          "y": 268
+        },
+        {
+          "x": 767,
+          "y": 285
+        },
+        {
+          "x": 732,
+          "y": 285
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 769,
+          "y": 268
+        },
+        {
+          "x": 773,
+          "y": 268
+        },
+        {
+          "x": 773,
+          "y": 284
+        },
+        {
+          "x": 769,
+          "y": 284
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "X",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 385,
+          "y": 320
+        },
+        {
+          "x": 396,
+          "y": 320
+        },
+        {
+          "x": 396,
+          "y": 328
+        },
+        {
+          "x": 385,
+          "y": 328
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 385,
+          "y": 355
+        },
+        {
+          "x": 399,
+          "y": 355
+        },
+        {
+          "x": 399,
+          "y": 367
+        },
+        {
+          "x": 385,
+          "y": 367
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Solution",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 368,
+          "y": 400
+        },
+        {
+          "x": 442,
+          "y": 401
+        },
+        {
+          "x": 442,
+          "y": 415
+        },
+        {
+          "x": 368,
+          "y": 414
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "STEP",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 386,
+          "y": 432
+        },
+        {
+          "x": 423,
+          "y": 432
+        },
+        {
+          "x": 423,
+          "y": 448
+        },
+        {
+          "x": 386,
+          "y": 448
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 428,
+          "y": 432
+        },
+        {
+          "x": 435,
+          "y": 432
+        },
+        {
+          "x": 435,
+          "y": 448
+        },
+        {
+          "x": 428,
+          "y": 448
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "0",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 443,
+          "y": 318
+        },
+        {
+          "x": 453,
+          "y": 318
+        },
+        {
+          "x": 453,
+          "y": 329
+        },
+        {
+          "x": 443,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "100",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 434,
+          "y": 351
+        },
+        {
+          "x": 460,
+          "y": 351
+        },
+        {
+          "x": 460,
+          "y": 363
+        },
+        {
+          "x": 434,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 380,
+          "y": 1330
+        },
+        {
+          "x": 389,
+          "y": 1330
+        },
+        {
+          "x": 389,
+          "y": 1339
+        },
+        {
+          "x": 380,
+          "y": 1339
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 390,
+          "y": 1330
+        },
+        {
+          "x": 394,
+          "y": 1330
+        },
+        {
+          "x": 394,
+          "y": 1339
+        },
+        {
+          "x": 390,
+          "y": 1339
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "STEP",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 385,
+          "y": 630
+        },
+        {
+          "x": 423,
+          "y": 630
+        },
+        {
+          "x": 423,
+          "y": 647
+        },
+        {
+          "x": 385,
+          "y": 647
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 427,
+          "y": 630
+        },
+        {
+          "x": 437,
+          "y": 630
+        },
+        {
+          "x": 437,
+          "y": 647
+        },
+        {
+          "x": 427,
+          "y": 647
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Use",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 630
+        },
+        {
+          "x": 485,
+          "y": 630
+        },
+        {
+          "x": 485,
+          "y": 647
+        },
+        {
+          "x": 455,
+          "y": 647
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 489,
+          "y": 630
+        },
+        {
+          "x": 515,
+          "y": 630
+        },
+        {
+          "x": 515,
+          "y": 648
+        },
+        {
+          "x": 489,
+          "y": 648
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "exponential",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 523,
+          "y": 630
+        },
+        {
+          "x": 620,
+          "y": 631
+        },
+        {
+          "x": 620,
+          "y": 649
+        },
+        {
+          "x": 523,
+          "y": 648
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "regression",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 627,
+          "y": 631
+        },
+        {
+          "x": 714,
+          "y": 632
+        },
+        {
+          "x": 714,
+          "y": 650
+        },
+        {
+          "x": 627,
+          "y": 649
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "feature",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 651
+        },
+        {
+          "x": 514,
+          "y": 652
+        },
+        {
+          "x": 514,
+          "y": 668
+        },
+        {
+          "x": 455,
+          "y": 667
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 520,
+          "y": 652
+        },
+        {
+          "x": 535,
+          "y": 652
+        },
+        {
+          "x": 535,
+          "y": 668
+        },
+        {
+          "x": 520,
+          "y": 668
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "find",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 542,
+          "y": 653
+        },
+        {
+          "x": 576,
+          "y": 653
+        },
+        {
+          "x": 576,
+          "y": 668
+        },
+        {
+          "x": 542,
+          "y": 668
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "an",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 581,
+          "y": 653
+        },
+        {
+          "x": 601,
+          "y": 653
+        },
+        {
+          "x": 601,
+          "y": 668
+        },
+        {
+          "x": 581,
+          "y": 668
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "equation",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 607,
+          "y": 653
+        },
+        {
+          "x": 681,
+          "y": 654
+        },
+        {
+          "x": 681,
+          "y": 670
+        },
+        {
+          "x": 607,
+          "y": 669
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "of",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 687,
+          "y": 655
+        },
+        {
+          "x": 704,
+          "y": 655
+        },
+        {
+          "x": 704,
+          "y": 670
+        },
+        {
+          "x": 687,
+          "y": 670
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 677
+        },
+        {
+          "x": 481,
+          "y": 677
+        },
+        {
+          "x": 481,
+          "y": 690
+        },
+        {
+          "x": 455,
+          "y": 690
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 488,
+          "y": 676
+        },
+        {
+          "x": 541,
+          "y": 677
+        },
+        {
+          "x": 541,
+          "y": 691
+        },
+        {
+          "x": 488,
+          "y": 690
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 541,
+          "y": 678
+        },
+        {
+          "x": 544,
+          "y": 678
+        },
+        {
+          "x": 544,
+          "y": 691
+        },
+        {
+          "x": 541,
+          "y": 691
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "X",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 422,
+          "y": 1251
+        },
+        {
+          "x": 433,
+          "y": 1251
+        },
+        {
+          "x": 433,
+          "y": 1259
+        },
+        {
+          "x": 422,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "STEP",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 385,
+          "y": 826
+        },
+        {
+          "x": 423,
+          "y": 826
+        },
+        {
+          "x": 423,
+          "y": 843
+        },
+        {
+          "x": 385,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "3",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 427,
+          "y": 826
+        },
+        {
+          "x": 437,
+          "y": 826
+        },
+        {
+          "x": 437,
+          "y": 843
+        },
+        {
+          "x": 427,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Graph",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 456,
+          "y": 826
+        },
+        {
+          "x": 505,
+          "y": 826
+        },
+        {
+          "x": 505,
+          "y": 843
+        },
+        {
+          "x": 456,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 511,
+          "y": 826
+        },
+        {
+          "x": 536,
+          "y": 826
+        },
+        {
+          "x": 536,
+          "y": 843
+        },
+        {
+          "x": 511,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 543,
+          "y": 826
+        },
+        {
+          "x": 594,
+          "y": 826
+        },
+        {
+          "x": 594,
+          "y": 843
+        },
+        {
+          "x": 543,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "along",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 601,
+          "y": 826
+        },
+        {
+          "x": 647,
+          "y": 826
+        },
+        {
+          "x": 647,
+          "y": 843
+        },
+        {
+          "x": 601,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "with",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 651,
+          "y": 826
+        },
+        {
+          "x": 689,
+          "y": 826
+        },
+        {
+          "x": 689,
+          "y": 843
+        },
+        {
+          "x": 651,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 694,
+          "y": 826
+        },
+        {
+          "x": 722,
+          "y": 826
+        },
+        {
+          "x": 722,
+          "y": 843
+        },
+        {
+          "x": 694,
+          "y": 843
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 848
+        },
+        {
+          "x": 491,
+          "y": 848
+        },
+        {
+          "x": 491,
+          "y": 863
+        },
+        {
+          "x": 455,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 497,
+          "y": 848
+        },
+        {
+          "x": 511,
+          "y": 848
+        },
+        {
+          "x": 511,
+          "y": 863
+        },
+        {
+          "x": 497,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "verify",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 518,
+          "y": 848
+        },
+        {
+          "x": 567,
+          "y": 848
+        },
+        {
+          "x": 567,
+          "y": 863
+        },
+        {
+          "x": 518,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "that",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 572,
+          "y": 848
+        },
+        {
+          "x": 605,
+          "y": 848
+        },
+        {
+          "x": 605,
+          "y": 863
+        },
+        {
+          "x": 572,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 610,
+          "y": 848
+        },
+        {
+          "x": 636,
+          "y": 848
+        },
+        {
+          "x": 636,
+          "y": 863
+        },
+        {
+          "x": 610,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 642,
+          "y": 848
+        },
+        {
+          "x": 695,
+          "y": 848
+        },
+        {
+          "x": 695,
+          "y": 863
+        },
+        {
+          "x": 642,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "fits",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 699,
+          "y": 848
+        },
+        {
+          "x": 727,
+          "y": 848
+        },
+        {
+          "x": 727,
+          "y": 863
+        },
+        {
+          "x": 699,
+          "y": 863
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 454,
+          "y": 870
+        },
+        {
+          "x": 481,
+          "y": 870
+        },
+        {
+          "x": 481,
+          "y": 883
+        },
+        {
+          "x": 454,
+          "y": 883
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 488,
+          "y": 870
+        },
+        {
+          "x": 524,
+          "y": 870
+        },
+        {
+          "x": 524,
+          "y": 883
+        },
+        {
+          "x": 488,
+          "y": 883
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "well",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 528,
+          "y": 870
+        },
+        {
+          "x": 562,
+          "y": 870
+        },
+        {
+          "x": 562,
+          "y": 883
+        },
+        {
+          "x": 528,
+          "y": 883
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 565,
+          "y": 870
+        },
+        {
+          "x": 569,
+          "y": 870
+        },
+        {
+          "x": 569,
+          "y": 883
+        },
+        {
+          "x": 565,
+          "y": 883
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 422,
+          "y": 1284
+        },
+        {
+          "x": 434,
+          "y": 1284
+        },
+        {
+          "x": 434,
+          "y": 1296
+        },
+        {
+          "x": 422,
+          "y": 1296
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "X",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 422,
+          "y": 1342
+        },
+        {
+          "x": 432,
+          "y": 1342
+        },
+        {
+          "x": 432,
+          "y": 1350
+        },
+        {
+          "x": 422,
+          "y": 1350
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "10",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 504,
+          "y": 318
+        },
+        {
+          "x": 521,
+          "y": 318
+        },
+        {
+          "x": 521,
+          "y": 329
+        },
+        {
+          "x": 504,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "75",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 503,
+          "y": 352
+        },
+        {
+          "x": 521,
+          "y": 352
+        },
+        {
+          "x": 521,
+          "y": 363
+        },
+        {
+          "x": 503,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "▸",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 367,
+          "y": 1016
+        },
+        {
+          "x": 378,
+          "y": 1016
+        },
+        {
+          "x": 378,
+          "y": 1033
+        },
+        {
+          "x": 367,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "A",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 381,
+          "y": 1016
+        },
+        {
+          "x": 393,
+          "y": 1016
+        },
+        {
+          "x": 393,
+          "y": 1033
+        },
+        {
+          "x": 381,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 398,
+          "y": 1016
+        },
+        {
+          "x": 451,
+          "y": 1016
+        },
+        {
+          "x": 451,
+          "y": 1033
+        },
+        {
+          "x": 398,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "for",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 1016
+        },
+        {
+          "x": 480,
+          "y": 1016
+        },
+        {
+          "x": 480,
+          "y": 1033
+        },
+        {
+          "x": 455,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 484,
+          "y": 1016
+        },
+        {
+          "x": 511,
+          "y": 1016
+        },
+        {
+          "x": 511,
+          "y": 1033
+        },
+        {
+          "x": 484,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 517,
+          "y": 1016
+        },
+        {
+          "x": 552,
+          "y": 1016
+        },
+        {
+          "x": 552,
+          "y": 1033
+        },
+        {
+          "x": 517,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "is",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 558,
+          "y": 1016
+        },
+        {
+          "x": 569,
+          "y": 1016
+        },
+        {
+          "x": 569,
+          "y": 1033
+        },
+        {
+          "x": 558,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 576,
+          "y": 1016
+        },
+        {
+          "x": 584,
+          "y": 1016
+        },
+        {
+          "x": 584,
+          "y": 1033
+        },
+        {
+          "x": 576,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "=",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 590,
+          "y": 1016
+        },
+        {
+          "x": 600,
+          "y": 1016
+        },
+        {
+          "x": 600,
+          "y": 1033
+        },
+        {
+          "x": 590,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "98.2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 608,
+          "y": 1016
+        },
+        {
+          "x": 641,
+          "y": 1016
+        },
+        {
+          "x": 641,
+          "y": 1033
+        },
+        {
+          "x": 608,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "(",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 645,
+          "y": 1016
+        },
+        {
+          "x": 650,
+          "y": 1016
+        },
+        {
+          "x": 650,
+          "y": 1033
+        },
+        {
+          "x": 645,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "0.969",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 651,
+          "y": 1016
+        },
+        {
+          "x": 694,
+          "y": 1016
+        },
+        {
+          "x": 694,
+          "y": 1033
+        },
+        {
+          "x": 651,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ")",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 694,
+          "y": 1016
+        },
+        {
+          "x": 700,
+          "y": 1016
+        },
+        {
+          "x": 700,
+          "y": 1033
+        },
+        {
+          "x": 694,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "*",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 703,
+          "y": 1016
+        },
+        {
+          "x": 710,
+          "y": 1016
+        },
+        {
+          "x": 710,
+          "y": 1033
+        },
+        {
+          "x": 703,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 710,
+          "y": 1016
+        },
+        {
+          "x": 713,
+          "y": 1016
+        },
+        {
+          "x": 713,
+          "y": 1033
+        },
+        {
+          "x": 710,
+          "y": 1033
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Animated",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 379,
+          "y": 1048
+        },
+        {
+          "x": 448,
+          "y": 1048
+        },
+        {
+          "x": 448,
+          "y": 1065
+        },
+        {
+          "x": 379,
+          "y": 1065
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Algebra",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 448,
+          "y": 1048
+        },
+        {
+          "x": 512,
+          "y": 1048
+        },
+        {
+          "x": 512,
+          "y": 1065
+        },
+        {
+          "x": 448,
+          "y": 1065
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "at",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 525,
+          "y": 1048
+        },
+        {
+          "x": 538,
+          "y": 1048
+        },
+        {
+          "x": 538,
+          "y": 1065
+        },
+        {
+          "x": 525,
+          "y": 1065
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "classzone.com",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 541,
+          "y": 1048
+        },
+        {
+          "x": 630,
+          "y": 1048
+        },
+        {
+          "x": 630,
+          "y": 1066
+        },
+        {
+          "x": 541,
+          "y": 1066
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 421,
+          "y": 1375
+        },
+        {
+          "x": 434,
+          "y": 1375
+        },
+        {
+          "x": 434,
+          "y": 1388
+        },
+        {
+          "x": 421,
+          "y": 1388
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Make",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 432
+        },
+        {
+          "x": 500,
+          "y": 432
+        },
+        {
+          "x": 500,
+          "y": 448
+        },
+        {
+          "x": 455,
+          "y": 448
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 506,
+          "y": 432
+        },
+        {
+          "x": 514,
+          "y": 432
+        },
+        {
+          "x": 514,
+          "y": 448
+        },
+        {
+          "x": 506,
+          "y": 448
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "scatter",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 520,
+          "y": 433
+        },
+        {
+          "x": 575,
+          "y": 433
+        },
+        {
+          "x": 575,
+          "y": 449
+        },
+        {
+          "x": 520,
+          "y": 449
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "plot",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 581,
+          "y": 433
+        },
+        {
+          "x": 613,
+          "y": 433
+        },
+        {
+          "x": 613,
+          "y": 449
+        },
+        {
+          "x": 581,
+          "y": 449
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 615,
+          "y": 433
+        },
+        {
+          "x": 617,
+          "y": 433
+        },
+        {
+          "x": 617,
+          "y": 449
+        },
+        {
+          "x": 615,
+          "y": 449
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "The",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 623,
+          "y": 433
+        },
+        {
+          "x": 654,
+          "y": 433
+        },
+        {
+          "x": 654,
+          "y": 450
+        },
+        {
+          "x": 623,
+          "y": 450
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "points",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 660,
+          "y": 434
+        },
+        {
+          "x": 713,
+          "y": 434
+        },
+        {
+          "x": 713,
+          "y": 450
+        },
+        {
+          "x": 660,
+          "y": 450
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "fall",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 453,
+          "y": 457
+        },
+        {
+          "x": 482,
+          "y": 457
+        },
+        {
+          "x": 482,
+          "y": 472
+        },
+        {
+          "x": 453,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "rapidly",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 487,
+          "y": 457
+        },
+        {
+          "x": 547,
+          "y": 457
+        },
+        {
+          "x": 547,
+          "y": 472
+        },
+        {
+          "x": 487,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "at",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 552,
+          "y": 457
+        },
+        {
+          "x": 567,
+          "y": 457
+        },
+        {
+          "x": 567,
+          "y": 472
+        },
+        {
+          "x": 552,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "first",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 571,
+          "y": 457
+        },
+        {
+          "x": 605,
+          "y": 457
+        },
+        {
+          "x": 605,
+          "y": 472
+        },
+        {
+          "x": 571,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "and",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 612,
+          "y": 457
+        },
+        {
+          "x": 642,
+          "y": 457
+        },
+        {
+          "x": 642,
+          "y": 472
+        },
+        {
+          "x": 612,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "then",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 648,
+          "y": 457
+        },
+        {
+          "x": 686,
+          "y": 457
+        },
+        {
+          "x": 686,
+          "y": 472
+        },
+        {
+          "x": 648,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "begin",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 692,
+          "y": 457
+        },
+        {
+          "x": 738,
+          "y": 457
+        },
+        {
+          "x": 738,
+          "y": 472
+        },
+        {
+          "x": 692,
+          "y": 472
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 477
+        },
+        {
+          "x": 471,
+          "y": 477
+        },
+        {
+          "x": 471,
+          "y": 492
+        },
+        {
+          "x": 455,
+          "y": 492
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "level",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 476,
+          "y": 476
+        },
+        {
+          "x": 516,
+          "y": 477
+        },
+        {
+          "x": 516,
+          "y": 493
+        },
+        {
+          "x": 476,
+          "y": 492
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "off",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 520,
+          "y": 478
+        },
+        {
+          "x": 543,
+          "y": 478
+        },
+        {
+          "x": 543,
+          "y": 493
+        },
+        {
+          "x": 520,
+          "y": 493
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 544,
+          "y": 478
+        },
+        {
+          "x": 546,
+          "y": 478
+        },
+        {
+          "x": 546,
+          "y": 493
+        },
+        {
+          "x": 544,
+          "y": 493
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "This",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 552,
+          "y": 478
+        },
+        {
+          "x": 588,
+          "y": 479
+        },
+        {
+          "x": 588,
+          "y": 495
+        },
+        {
+          "x": 552,
+          "y": 494
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "suggests",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 594,
+          "y": 478
+        },
+        {
+          "x": 664,
+          "y": 479
+        },
+        {
+          "x": 664,
+          "y": 495
+        },
+        {
+          "x": 594,
+          "y": 494
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "an",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 671,
+          "y": 480
+        },
+        {
+          "x": 691,
+          "y": 480
+        },
+        {
+          "x": 691,
+          "y": 495
+        },
+        {
+          "x": 671,
+          "y": 495
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "exponential",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 455,
+          "y": 500
+        },
+        {
+          "x": 556,
+          "y": 499
+        },
+        {
+          "x": 556,
+          "y": 516
+        },
+        {
+          "x": 455,
+          "y": 517
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "decay",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 560,
+          "y": 499
+        },
+        {
+          "x": 608,
+          "y": 498
+        },
+        {
+          "x": 608,
+          "y": 514
+        },
+        {
+          "x": 560,
+          "y": 515
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 613,
+          "y": 498
+        },
+        {
+          "x": 666,
+          "y": 497
+        },
+        {
+          "x": 666,
+          "y": 514
+        },
+        {
+          "x": 613,
+          "y": 515
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 667,
+          "y": 498
+        },
+        {
+          "x": 671,
+          "y": 498
+        },
+        {
+          "x": 671,
+          "y": 514
+        },
+        {
+          "x": 667,
+          "y": 514
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "10",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 478,
+          "y": 1248
+        },
+        {
+          "x": 494,
+          "y": 1248
+        },
+        {
+          "x": 494,
+          "y": 1259
+        },
+        {
+          "x": 478,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "23.1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 471,
+          "y": 1282
+        },
+        {
+          "x": 500,
+          "y": 1282
+        },
+        {
+          "x": 500,
+          "y": 1293
+        },
+        {
+          "x": 471,
+          "y": 1293
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "20",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 568,
+          "y": 317
+        },
+        {
+          "x": 587,
+          "y": 317
+        },
+        {
+          "x": 587,
+          "y": 329
+        },
+        {
+          "x": 568,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "50",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 568,
+          "y": 352
+        },
+        {
+          "x": 586,
+          "y": 352
+        },
+        {
+          "x": 586,
+          "y": 363
+        },
+        {
+          "x": 568,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "0",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 482,
+          "y": 1340
+        },
+        {
+          "x": 491,
+          "y": 1340
+        },
+        {
+          "x": 491,
+          "y": 1350
+        },
+        {
+          "x": 482,
+          "y": 1350
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "33",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 477,
+          "y": 1373
+        },
+        {
+          "x": 497,
+          "y": 1373
+        },
+        {
+          "x": 497,
+          "y": 1384
+        },
+        {
+          "x": 477,
+          "y": 1384
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "GUIDED",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 369,
+          "y": 1139
+        },
+        {
+          "x": 433,
+          "y": 1139
+        },
+        {
+          "x": 433,
+          "y": 1153
+        },
+        {
+          "x": 369,
+          "y": 1153
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "PRACTICE",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 438,
+          "y": 1139
+        },
+        {
+          "x": 518,
+          "y": 1139
+        },
+        {
+          "x": 518,
+          "y": 1153
+        },
+        {
+          "x": 438,
+          "y": 1153
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "for",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 544,
+          "y": 1139
+        },
+        {
+          "x": 569,
+          "y": 1139
+        },
+        {
+          "x": 569,
+          "y": 1155
+        },
+        {
+          "x": 544,
+          "y": 1155
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Examples",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 573,
+          "y": 1139
+        },
+        {
+          "x": 656,
+          "y": 1138
+        },
+        {
+          "x": 656,
+          "y": 1153
+        },
+        {
+          "x": 573,
+          "y": 1154
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 663,
+          "y": 1138
+        },
+        {
+          "x": 669,
+          "y": 1138
+        },
+        {
+          "x": 669,
+          "y": 1153
+        },
+        {
+          "x": 663,
+          "y": 1153
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "and",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 676,
+          "y": 1137
+        },
+        {
+          "x": 708,
+          "y": 1137
+        },
+        {
+          "x": 708,
+          "y": 1152
+        },
+        {
+          "x": 676,
+          "y": 1152
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 714,
+          "y": 1137
+        },
+        {
+          "x": 724,
+          "y": 1137
+        },
+        {
+          "x": 724,
+          "y": 1152
+        },
+        {
+          "x": 714,
+          "y": 1152
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Use",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 369,
+          "y": 1181
+        },
+        {
+          "x": 400,
+          "y": 1181
+        },
+        {
+          "x": 400,
+          "y": 1198
+        },
+        {
+          "x": 369,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 405,
+          "y": 1181
+        },
+        {
+          "x": 415,
+          "y": 1181
+        },
+        {
+          "x": 415,
+          "y": 1198
+        },
+        {
+          "x": 405,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "graphing",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 419,
+          "y": 1181
+        },
+        {
+          "x": 498,
+          "y": 1181
+        },
+        {
+          "x": 498,
+          "y": 1198
+        },
+        {
+          "x": 419,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "calculator",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 503,
+          "y": 1181
+        },
+        {
+          "x": 590,
+          "y": 1181
+        },
+        {
+          "x": 590,
+          "y": 1198
+        },
+        {
+          "x": 503,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "to",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 595,
+          "y": 1181
+        },
+        {
+          "x": 610,
+          "y": 1181
+        },
+        {
+          "x": 610,
+          "y": 1198
+        },
+        {
+          "x": 595,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "find",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 616,
+          "y": 1181
+        },
+        {
+          "x": 651,
+          "y": 1181
+        },
+        {
+          "x": 651,
+          "y": 1198
+        },
+        {
+          "x": 616,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 658,
+          "y": 1181
+        },
+        {
+          "x": 667,
+          "y": 1181
+        },
+        {
+          "x": 667,
+          "y": 1198
+        },
+        {
+          "x": 658,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 671,
+          "y": 1181
+        },
+        {
+          "x": 724,
+          "y": 1181
+        },
+        {
+          "x": 724,
+          "y": 1198
+        },
+        {
+          "x": 671,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "for",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 729,
+          "y": 1181
+        },
+        {
+          "x": 753,
+          "y": 1181
+        },
+        {
+          "x": 753,
+          "y": 1198
+        },
+        {
+          "x": 729,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 759,
+          "y": 1181
+        },
+        {
+          "x": 786,
+          "y": 1181
+        },
+        {
+          "x": 786,
+          "y": 1198
+        },
+        {
+          "x": 759,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 792,
+          "y": 1181
+        },
+        {
+          "x": 829,
+          "y": 1181
+        },
+        {
+          "x": 829,
+          "y": 1198
+        },
+        {
+          "x": 792,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 830,
+          "y": 1181
+        },
+        {
+          "x": 833,
+          "y": 1181
+        },
+        {
+          "x": 833,
+          "y": 1198
+        },
+        {
+          "x": 830,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Then",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 839,
+          "y": 1181
+        },
+        {
+          "x": 882,
+          "y": 1181
+        },
+        {
+          "x": 882,
+          "y": 1198
+        },
+        {
+          "x": 839,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "graph",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 888,
+          "y": 1181
+        },
+        {
+          "x": 937,
+          "y": 1181
+        },
+        {
+          "x": 937,
+          "y": 1198
+        },
+        {
+          "x": 888,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 943,
+          "y": 1181
+        },
+        {
+          "x": 971,
+          "y": 1181
+        },
+        {
+          "x": 971,
+          "y": 1198
+        },
+        {
+          "x": 943,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "model",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 976,
+          "y": 1181
+        },
+        {
+          "x": 1030,
+          "y": 1181
+        },
+        {
+          "x": 1030,
+          "y": 1198
+        },
+        {
+          "x": 976,
+          "y": 1198
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "and",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 369,
+          "y": 1204
+        },
+        {
+          "x": 401,
+          "y": 1204
+        },
+        {
+          "x": 401,
+          "y": 1220
+        },
+        {
+          "x": 369,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 406,
+          "y": 1204
+        },
+        {
+          "x": 434,
+          "y": 1204
+        },
+        {
+          "x": 434,
+          "y": 1220
+        },
+        {
+          "x": 406,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 439,
+          "y": 1204
+        },
+        {
+          "x": 477,
+          "y": 1204
+        },
+        {
+          "x": 477,
+          "y": 1220
+        },
+        {
+          "x": 439,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "in",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 481,
+          "y": 1204
+        },
+        {
+          "x": 497,
+          "y": 1204
+        },
+        {
+          "x": 497,
+          "y": 1220
+        },
+        {
+          "x": 481,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "the",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 503,
+          "y": 1204
+        },
+        {
+          "x": 530,
+          "y": 1204
+        },
+        {
+          "x": 530,
+          "y": 1220
+        },
+        {
+          "x": 503,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "same",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 536,
+          "y": 1204
+        },
+        {
+          "x": 580,
+          "y": 1204
+        },
+        {
+          "x": 580,
+          "y": 1220
+        },
+        {
+          "x": 536,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "coordinate",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 586,
+          "y": 1204
+        },
+        {
+          "x": 679,
+          "y": 1204
+        },
+        {
+          "x": 679,
+          "y": 1220
+        },
+        {
+          "x": 586,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "plane",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 684,
+          "y": 1204
+        },
+        {
+          "x": 731,
+          "y": 1204
+        },
+        {
+          "x": 731,
+          "y": 1220
+        },
+        {
+          "x": 684,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 733,
+          "y": 1204
+        },
+        {
+          "x": 737,
+          "y": 1204
+        },
+        {
+          "x": 737,
+          "y": 1220
+        },
+        {
+          "x": 733,
+          "y": 1220
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 381,
+          "y": 1239
+        },
+        {
+          "x": 388,
+          "y": 1239
+        },
+        {
+          "x": 388,
+          "y": 1250
+        },
+        {
+          "x": 381,
+          "y": 1250
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 390,
+          "y": 1239
+        },
+        {
+          "x": 393,
+          "y": 1239
+        },
+        {
+          "x": 393,
+          "y": 1250
+        },
+        {
+          "x": 390,
+          "y": 1250
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "30",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 634,
+          "y": 317
+        },
+        {
+          "x": 653,
+          "y": 317
+        },
+        {
+          "x": 653,
+          "y": 329
+        },
+        {
+          "x": 634,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "35",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 634,
+          "y": 351
+        },
+        {
+          "x": 653,
+          "y": 351
+        },
+        {
+          "x": 653,
+          "y": 363
+        },
+        {
+          "x": 634,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Chapter",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 215,
+          "y": 1478
+        },
+        {
+          "x": 276,
+          "y": 1478
+        },
+        {
+          "x": 276,
+          "y": 1495
+        },
+        {
+          "x": 215,
+          "y": 1495
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "11",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 281,
+          "y": 1478
+        },
+        {
+          "x": 298,
+          "y": 1478
+        },
+        {
+          "x": 298,
+          "y": 1494
+        },
+        {
+          "x": 281,
+          "y": 1494
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Data",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 317,
+          "y": 1478
+        },
+        {
+          "x": 352,
+          "y": 1478
+        },
+        {
+          "x": 352,
+          "y": 1494
+        },
+        {
+          "x": 317,
+          "y": 1494
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Analysis",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 357,
+          "y": 1478
+        },
+        {
+          "x": 422,
+          "y": 1478
+        },
+        {
+          "x": 422,
+          "y": 1493
+        },
+        {
+          "x": 357,
+          "y": 1493
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "and",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 428,
+          "y": 1478
+        },
+        {
+          "x": 457,
+          "y": 1478
+        },
+        {
+          "x": 457,
+          "y": 1493
+        },
+        {
+          "x": 428,
+          "y": 1493
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "Statistics",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 463,
+          "y": 1477
+        },
+        {
+          "x": 528,
+          "y": 1477
+        },
+        {
+          "x": 528,
+          "y": 1493
+        },
+        {
+          "x": 463,
+          "y": 1493
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "20",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 546,
+          "y": 1248
+        },
+        {
+          "x": 565,
+          "y": 1248
+        },
+        {
+          "x": 565,
+          "y": 1259
+        },
+        {
+          "x": 546,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "40",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 698,
+          "y": 317
+        },
+        {
+          "x": 719,
+          "y": 317
+        },
+        {
+          "x": 719,
+          "y": 329
+        },
+        {
+          "x": 698,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "28",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 698,
+          "y": 352
+        },
+        {
+          "x": 717,
+          "y": 352
+        },
+        {
+          "x": 717,
+          "y": 363
+        },
+        {
+          "x": 698,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "28.9",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 539,
+          "y": 1282
+        },
+        {
+          "x": 570,
+          "y": 1282
+        },
+        {
+          "x": 570,
+          "y": 1292
+        },
+        {
+          "x": 539,
+          "y": 1292
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "1",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 551,
+          "y": 1339
+        },
+        {
+          "x": 559,
+          "y": 1339
+        },
+        {
+          "x": 559,
+          "y": 1351
+        },
+        {
+          "x": 551,
+          "y": 1351
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "41",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 547,
+          "y": 1372
+        },
+        {
+          "x": 562,
+          "y": 1372
+        },
+        {
+          "x": 562,
+          "y": 1384
+        },
+        {
+          "x": 547,
+          "y": 1384
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "30",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 615,
+          "y": 1248
+        },
+        {
+          "x": 634,
+          "y": 1248
+        },
+        {
+          "x": 634,
+          "y": 1259
+        },
+        {
+          "x": 615,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "34.9",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 608,
+          "y": 1282
+        },
+        {
+          "x": 639,
+          "y": 1282
+        },
+        {
+          "x": 639,
+          "y": 1293
+        },
+        {
+          "x": 608,
+          "y": 1293
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 619,
+          "y": 1340
+        },
+        {
+          "x": 629,
+          "y": 1340
+        },
+        {
+          "x": 629,
+          "y": 1351
+        },
+        {
+          "x": 619,
+          "y": 1351
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "52",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 615,
+          "y": 1373
+        },
+        {
+          "x": 633,
+          "y": 1373
+        },
+        {
+          "x": 633,
+          "y": 1383
+        },
+        {
+          "x": 615,
+          "y": 1383
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "40",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 683,
+          "y": 1247
+        },
+        {
+          "x": 702,
+          "y": 1247
+        },
+        {
+          "x": 702,
+          "y": 1259
+        },
+        {
+          "x": 683,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "43.7",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 678,
+          "y": 1281
+        },
+        {
+          "x": 709,
+          "y": 1281
+        },
+        {
+          "x": 709,
+          "y": 1292
+        },
+        {
+          "x": 678,
+          "y": 1292
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "50",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 763,
+          "y": 318
+        },
+        {
+          "x": 783,
+          "y": 318
+        },
+        {
+          "x": 783,
+          "y": 329
+        },
+        {
+          "x": 763,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "20",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 764,
+          "y": 352
+        },
+        {
+          "x": 783,
+          "y": 352
+        },
+        {
+          "x": 783,
+          "y": 363
+        },
+        {
+          "x": 764,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "3",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 688,
+          "y": 1340
+        },
+        {
+          "x": 699,
+          "y": 1340
+        },
+        {
+          "x": 699,
+          "y": 1351
+        },
+        {
+          "x": 688,
+          "y": 1351
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "68",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 684,
+          "y": 1372
+        },
+        {
+          "x": 702,
+          "y": 1372
+        },
+        {
+          "x": 702,
+          "y": 1384
+        },
+        {
+          "x": 684,
+          "y": 1384
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "50",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 753,
+          "y": 1248
+        },
+        {
+          "x": 771,
+          "y": 1248
+        },
+        {
+          "x": 771,
+          "y": 1258
+        },
+        {
+          "x": 753,
+          "y": 1258
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "53.2",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 746,
+          "y": 1282
+        },
+        {
+          "x": 779,
+          "y": 1282
+        },
+        {
+          "x": 779,
+          "y": 1293
+        },
+        {
+          "x": 746,
+          "y": 1293
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "4",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 758,
+          "y": 1340
+        },
+        {
+          "x": 766,
+          "y": 1340
+        },
+        {
+          "x": 766,
+          "y": 1350
+        },
+        {
+          "x": 758,
+          "y": 1350
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "60",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 830,
+          "y": 318
+        },
+        {
+          "x": 848,
+          "y": 318
+        },
+        {
+          "x": 848,
+          "y": 329
+        },
+        {
+          "x": 830,
+          "y": 329
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "15",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 830,
+          "y": 352
+        },
+        {
+          "x": 848,
+          "y": 352
+        },
+        {
+          "x": 848,
+          "y": 363
+        },
+        {
+          "x": 830,
+          "y": 363
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "80",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 753,
+          "y": 1373
+        },
+        {
+          "x": 771,
+          "y": 1373
+        },
+        {
+          "x": 771,
+          "y": 1383
+        },
+        {
+          "x": 753,
+          "y": 1383
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "ExpReg",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 803,
+          "y": 664
+        },
+        {
+          "x": 862,
+          "y": 664
+        },
+        {
+          "x": 862,
+          "y": 675
+        },
+        {
+          "x": 803,
+          "y": 675
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "y",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 809,
+          "y": 682
+        },
+        {
+          "x": 817,
+          "y": 682
+        },
+        {
+          "x": 817,
+          "y": 692
+        },
+        {
+          "x": 809,
+          "y": 692
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "=",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 819,
+          "y": 681
+        },
+        {
+          "x": 826,
+          "y": 681
+        },
+        {
+          "x": 826,
+          "y": 691
+        },
+        {
+          "x": 819,
+          "y": 691
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 829,
+          "y": 681
+        },
+        {
+          "x": 836,
+          "y": 681
+        },
+        {
+          "x": 836,
+          "y": 691
+        },
+        {
+          "x": 829,
+          "y": 691
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "*",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 840,
+          "y": 680
+        },
+        {
+          "x": 847,
+          "y": 680
+        },
+        {
+          "x": 847,
+          "y": 690
+        },
+        {
+          "x": 840,
+          "y": 690
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "b",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 851,
+          "y": 680
+        },
+        {
+          "x": 858,
+          "y": 680
+        },
+        {
+          "x": 858,
+          "y": 690
+        },
+        {
+          "x": 851,
+          "y": 690
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "^",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 861,
+          "y": 679
+        },
+        {
+          "x": 868,
+          "y": 679
+        },
+        {
+          "x": 868,
+          "y": 689
+        },
+        {
+          "x": 861,
+          "y": 689
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "x",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 870,
+          "y": 679
+        },
+        {
+          "x": 877,
+          "y": 679
+        },
+        {
+          "x": 877,
+          "y": 689
+        },
+        {
+          "x": 870,
+          "y": 689
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "a",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 810,
+          "y": 695
+        },
+        {
+          "x": 817,
+          "y": 695
+        },
+        {
+          "x": 817,
+          "y": 706
+        },
+        {
+          "x": 810,
+          "y": 706
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "98.24196058",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 829,
+          "y": 694
+        },
+        {
+          "x": 942,
+          "y": 693
+        },
+        {
+          "x": 942,
+          "y": 705
+        },
+        {
+          "x": 829,
+          "y": 706
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "b",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 810,
+          "y": 711
+        },
+        {
+          "x": 818,
+          "y": 711
+        },
+        {
+          "x": 818,
+          "y": 722
+        },
+        {
+          "x": 810,
+          "y": 722
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "=",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 820,
+          "y": 711
+        },
+        {
+          "x": 828,
+          "y": 711
+        },
+        {
+          "x": 828,
+          "y": 722
+        },
+        {
+          "x": 820,
+          "y": 722
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": ".9686633194",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 832,
+          "y": 711
+        },
+        {
+          "x": 942,
+          "y": 711
+        },
+        {
+          "x": 942,
+          "y": 722
+        },
+        {
+          "x": 832,
+          "y": 722
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "60",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 822,
+          "y": 1249
+        },
+        {
+          "x": 839,
+          "y": 1249
+        },
+        {
+          "x": 839,
+          "y": 1259
+        },
+        {
+          "x": 822,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "66.5",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 815,
+          "y": 1282
+        },
+        {
+          "x": 847,
+          "y": 1282
+        },
+        {
+          "x": 847,
+          "y": 1293
+        },
+        {
+          "x": 815,
+          "y": 1293
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "80.8",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 884,
+          "y": 1282
+        },
+        {
+          "x": 916,
+          "y": 1282
+        },
+        {
+          "x": 916,
+          "y": 1293
+        },
+        {
+          "x": 884,
+          "y": 1293
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "70",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 892,
+          "y": 1248
+        },
+        {
+          "x": 908,
+          "y": 1248
+        },
+        {
+          "x": 908,
+          "y": 1258
+        },
+        {
+          "x": 892,
+          "y": 1258
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "5",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 827,
+          "y": 1340
+        },
+        {
+          "x": 837,
+          "y": 1340
+        },
+        {
+          "x": 837,
+          "y": 1351
+        },
+        {
+          "x": 827,
+          "y": 1351
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "89",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 822,
+          "y": 1373
+        },
+        {
+          "x": 840,
+          "y": 1373
+        },
+        {
+          "x": 840,
+          "y": 1383
+        },
+        {
+          "x": 822,
+          "y": 1383
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "6",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 896,
+          "y": 1340
+        },
+        {
+          "x": 905,
+          "y": 1340
+        },
+        {
+          "x": 905,
+          "y": 1350
+        },
+        {
+          "x": 896,
+          "y": 1350
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "102",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 887,
+          "y": 1373
+        },
+        {
+          "x": 913,
+          "y": 1373
+        },
+        {
+          "x": 913,
+          "y": 1384
+        },
+        {
+          "x": 887,
+          "y": 1384
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "80",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 960,
+          "y": 1248
+        },
+        {
+          "x": 978,
+          "y": 1248
+        },
+        {
+          "x": 978,
+          "y": 1259
+        },
+        {
+          "x": 960,
+          "y": 1259
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "99.3",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 953,
+          "y": 1282
+        },
+        {
+          "x": 985,
+          "y": 1282
+        },
+        {
+          "x": 985,
+          "y": 1292
+        },
+        {
+          "x": 953,
+          "y": 1292
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "7",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 964,
+          "y": 1339
+        },
+        {
+          "x": 974,
+          "y": 1339
+        },
+        {
+          "x": 974,
+          "y": 1350
+        },
+        {
+          "x": 964,
+          "y": 1350
+        }
+      ],
+      "normalizedVertices": []
+    }
+  },
+  {
+    "locations": [],
+    "properties": [],
+    "mid": "",
+    "locale": "",
+    "description": "118",
+    "score": 0,
+    "confidence": 0,
+    "topicality": 0,
+    "boundingPoly": {
+      "vertices": [
+        {
+          "x": 957,
+          "y": 1372
+        },
+        {
+          "x": 982,
+          "y": 1372
+        },
+        {
+          "x": 982,
+          "y": 1384
+        },
+        {
+          "x": 957,
+          "y": 1384
+        }
+      ],
+      "normalizedVertices": []
+    }
+  }
+]
