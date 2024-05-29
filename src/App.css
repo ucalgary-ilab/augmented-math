@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+#container {
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#drawing-plane {
+  width: 400px;
+  height: 800px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+#buttons {
+  position: fixed;
+  z-index: 1010;
+  top: 0px;
+  right: 0px;
+}
+
+#buttons button {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+

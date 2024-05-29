@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script>
+      AFRAME.registerComponent("drawing-plane", {
+        init: () => {},
+        tick: () => {},
+      })
+    </script>
+  </head>
+  <body>
+    <a-scene>
+      <a-camera
+        id="camera"
+        position="0 4 9.6"
+        look-controls="enabled: false"
+        raycaster="objects: .cantap"
+        cursor="fuse: false; rayOrigin: mouse;"
+      ></a-camera>
+      <a-entity id="root"></a-entity>
+    </a-scene>
+  </body>
+</html>

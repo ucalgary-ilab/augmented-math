@@ -1,0 +1,58 @@
+{
+  "name": "math",
+  "version": "0.1.0",
+  "type": "module",
+  "homepage": "https://ryosuzuki.github.io/math",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "aframe": "^1.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mathsteps": "^0.2.0",
+    "parse-svg-path": "^0.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-konva": "^18.2.0",
+    "react-scripts": "5.0.0",
+    "scale-svg-path": "^0.0.1",
+    "serialize-svg-path": "^0.1.0",
+    "string-similarity": "^4.0.4",
+    "svg-path-bbox": "^1.2.4",
+    "svgson": "^5.2.1",
+    "tex-math-parser": "^2.0.4",
+    "tex-to-svg": "^0.2.0",
+    "translate-svg-path": "^0.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "node server.js",
+    "build": "react-scripts build && cp build/static/js/*.js build/dist.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@google-cloud/vision": "^3.1.3",
+    "axios": "^1.4.0",
+    "gh-pages": "^3.2.3",
+    "imagetracerjs": "^1.2.6",
+    "jpeg-js": "^0.4.4",
+    "python-shell": "^5.0.0",
+    "raw-loader": "^4.0.2"
+  }
+}
