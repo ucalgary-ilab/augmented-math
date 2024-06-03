@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/augmented-math/static/css/main.a8257ce7.css",
-    "main.js": "/augmented-math/static/js/main.4ef5bfcc.js",
-    "index.html": "/augmented-math/index.html",
-    "main.a8257ce7.css.map": "/augmented-math/static/css/main.a8257ce7.css.map",
-    "main.4ef5bfcc.js.map": "/augmented-math/static/js/main.4ef5bfcc.js.map"
+    "main.css": "/math/static/css/main.a8257ce7.css",
+    "main.js": "/math/static/js/main.4ef5bfcc.js",
+    "index.html": "/math/index.html",
+    "main.a8257ce7.css.map": "/math/static/css/main.a8257ce7.css.map",
+    "main.4ef5bfcc.js.map": "/math/static/js/main.4ef5bfcc.js.map"
   },
   "entrypoints": [
     "static/css/main.a8257ce7.css",
