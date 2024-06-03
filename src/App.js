@@ -23,7 +23,7 @@ class App extends Component {
     if (this.sampleId === 7) this.threshold = 0.3
     if (this.sampleId === 8) this.threshold = 0.2
     if (this.sampleId === 10) this.threshold = 0.2
-    this.domain = 'https://raw.githubusercontent.com/ryosuzuki/math/main'
+    this.domain = 'https://raw.githubusercontent.com/ucalgary-ilab/augmented-math/main'
 
     this.dir = 'sample'
 
@@ -197,7 +197,7 @@ class App extends Component {
   }
 
   changeSample(sampleId) {
-     window.location.href = `${this.baseURL}/math/?id=${sampleId}`
+     window.location.href = `${this.baseURL}/augmented-math/?id=${sampleId}`
   }
 
   render() {

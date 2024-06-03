@@ -2,7 +2,7 @@
   "name": "math",
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://ryosuzuki.github.io/math",
+  "homepage": "https://ilab.ucalgary.ca/augmented-math",
   "private": true,
   "main": "index.js",
   "dependencies": {
@@ -28,7 +28,7 @@
   "scripts": {
     "start": "react-scripts start",
     "server": "node server.js",
-    "build": "react-scripts build && cp build/static/js/*.js build/dist.js",
+    "build": "react-scripts build && cp build/static/js/*.js build/dist.js && rm -rf build/test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
