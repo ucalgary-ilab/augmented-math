@@ -22,6 +22,6 @@ $$
 $$
 3. Find the probability.
 $$
-\frac{\text { number of outcomes in event A }}{\text { number of outcomes in the sample space }}=\frac{{ }_{17} C_{2} \times{ }_{8} C_{4}}{{ }_{25} C_{6}} \approx 0.05
+\frac{\text { number of outcomes in event A }}{\text { number of outcomes in the sample space }}=\frac{{} _{17} C_{2} \times {} _{8} C_{4}}{{} _{25} C_{6}} \approx 0.05
 $$
 Thus, the probability of selecting exactly 2 respondents who favor the proposed regulation and 4 who oppose it in a randomly selected group of 6 respondents is about 0.05 , or $5 \%$.
