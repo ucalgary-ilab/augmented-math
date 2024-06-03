@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/augmented-math/static/css/main.a8257ce7.css",
-    "main.js": "/augmented-math/static/js/main.4ef5bfcc.js",
+    "main.js": "/augmented-math/static/js/main.d427e9f0.js",
     "index.html": "/augmented-math/index.html",
     "main.a8257ce7.css.map": "/augmented-math/static/css/main.a8257ce7.css.map",
-    "main.4ef5bfcc.js.map": "/augmented-math/static/js/main.4ef5bfcc.js.map"
+    "main.d427e9f0.js.map": "/augmented-math/static/js/main.d427e9f0.js.map"
   },
   "entrypoints": [
     "static/css/main.a8257ce7.css",
-    "static/js/main.4ef5bfcc.js"
+    "static/js/main.d427e9f0.js"
   ]
 }
